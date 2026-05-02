@@ -1,0 +1,8 @@
+name = "share-proxy"
+main = "worker.js"
+compatibility_date = "2025-04-01"
+
+# Optional: deploy to your own domain or workers.dev subdomain
+# workers_dev = true   # uncomment if you want a *.workers.dev domain
+
+# No KV, D1, or other bindings needed
